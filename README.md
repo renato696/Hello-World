@@ -40,6 +40,6 @@ else:
 
 Ou postar prints:
 
-Emoji :hand
+Emoji :hand:
 
 ![exemplo de codigo](Https://...)
