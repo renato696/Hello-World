@@ -43,3 +43,5 @@ Ou postar prints:
 Emoji :hand:
 
 ![exemplo de codigo](Https://...)
+
+marcar pessoas: "como diria @gustavoguanabara, fala pequeno gafanhoto"
